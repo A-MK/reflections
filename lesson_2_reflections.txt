@@ -7,3 +7,8 @@ A: a propmt will show the path of the initialized repository, and I need to do i
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: it an area to add files that make logical change togother for committing as a package
+-------------------------------------------------------------------------------------------------------------------------
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: by adding only the files that related to that 'logical change' to the staging area per commit
